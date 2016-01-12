@@ -1,0 +1,31 @@
+{
+  "name": "dotwarcraftlogs",
+  "version": "1.0.0",
+  "description": "JavaScript library for interacting with WarcraftLogs, written in TypeScript",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotted/dotWarcraftLogs.git"
+  },
+  "keywords": [
+    "warcraft",
+    "wow",
+    "log",
+    "logs",
+    "warcraftlogs",
+    "api"
+  ],
+  "author": "Bo Fjord Jensen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dotted/dotWarcraftLogs/issues"
+  },
+  "homepage": "https://github.com/dotted/dotWarcraftLogs#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "urijs": "^1.17.0"
+  }
+}
